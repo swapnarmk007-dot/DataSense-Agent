@@ -210,6 +210,10 @@ python -m unittest discover tests/
 ```
 
 ---
+## 🚀 Live Demo
+
+👉 [Open DataSense Agent](https://datasense-agent-p7qemk5a49vnrjt2lkovt5.streamlit.app/)
+
 
 ## 👨‍💻 Developer & Attribution
 
